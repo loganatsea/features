@@ -1,0 +1,44 @@
+{
+  "issues": {
+    "issue4": {
+      "issue_number": "4",
+      "issue_label": "Issue 4",
+      "issue_link": "",
+      "issue_link_cta": "Read more",
+      "display_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "featured_image": "https://media.fisheries.noaa.gov/dam-migration/750x500-whale-disentanglement-2009-noaa-mmhsrp.jpg",
+      "publish_date": "December 31, 2022",
+      "time_to_read": "5 min read"
+    },
+    "issue3": {
+      "issue_number": "3",
+      "issue_label": "Issue 3",
+      "issue_link": "",
+      "issue_link_cta": "Click here",
+      "display_description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "featured_image": "https://www.reunionvacationhomes.com/wp-content/uploads/2021/01/Homestead-750x500-011.jpg",
+      "publish_date": "December 15, 2022",
+      "time_to_read": "6 min read"
+    },
+    "issue2": {
+      "issue_number": "42",
+      "issue_label": "Issue 2",
+      "issue_link": "",
+      "issue_link_cta": "Read more",
+      "display_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "featured_image": "https://jnswire.s3.amazonaws.com/jns-media/4c/25/570434/PowerLines-750x500.jpg",
+      "publish_date": "November 30, 2022",
+      "time_to_read": "7 min read"
+    },
+    "issue1": {
+      "issue_number": "1",
+      "issue_label": "Issue 1",
+      "issue_link": "",
+      "issue_link_cta": "Learn how",
+      "display_description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "featured_image": "https://images.squarespace-cdn.com/content/v1/5cf5b11969119d000162a4b0/1559938119568-X1D9ZCAAUAJU0O0QSS1W/crop-goldenbear28870-e1389483301658-750x500.jpg",
+      "publish_date": "November 15, 2022",
+      "time_to_read": "8 min read"
+    }
+  }
+}
